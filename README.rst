@@ -52,7 +52,7 @@ I hope Python 3 "wins" by 2020 (if not sooner). I feel like most of the drama as
 What is your take on the current market for Python programmers? 
 --------------------------------------------------------------------------------
 
-I don't keep too many tabs on this (other than continuously trying to be hired as a Python Web Developer for my standard rate!) but I'm hoping that the market for Python Data Scientists continues to grow. As someone responsible for spending lots of $$$ on Mathworks' MATLAB licensing each year, I hope to see Python continue to compete in this area; I want to reach the point where I can easily present Python as an alternative to MATLAB.
+I don't keep too many tabs on this (other than continuously trying to be hired as a Python Web Developer for my standard rate!) but I'm hoping that the market for Python Data Scientists continues to grow. As someone involved in the process of spending lots of $$$ on Mathworks' MATLAB licensing each year, I hope to see Python continue to compete in this area; I want to reach the point where I can easily present Python as an alternative to MATLAB.
 
 .. [1] Amazingly, that site is still running: https://afni.nimh.nih.gov/
 .. [2] Most importantly, I still oversee the operation of DC Python, which I very much enjoy doing: http://dcpython.org.
