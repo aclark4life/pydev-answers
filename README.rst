@@ -33,8 +33,16 @@ The latter is marked "do not use", but I'm about to flip the switch on that one 
 Which Python libraries are your favorite (core or 3rd party)?
 --------------------------------------------------------------------------------
 
+I'm glad you asked this one, too. I tend to enjoy frameworks and utilities more than libraries, so I'll list these and hope they somewhat answer the question:
+
+- Django (most of my web programming these days happens within this framework)
+- Django Rest Framework (a "just works" add-on to build web services, with an interesting new funding mechanism: https://fund.django-rest-framework.org/topics/funding/)
+- checkoutmanager (I love this utility and I use it everyday to move code from GitHub to all my various development stations: https://github.com/reinout/checkoutmanager) 
+
 Is there anything else you’d like to say?
 --------------------------------------------------------------------------------
+
+Thank you for the PyDev of the week series and for inviting me to participate!
 
 Where do you see Python going as a programming language? 
 --------------------------------------------------------------------------------
