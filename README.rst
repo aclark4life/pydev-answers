@@ -1,6 +1,9 @@
 PyDev Answers
 =============
 
+.. image:: aclark-jobs.jpg
+    :align: center
+
 Can you tell us a little about yourself (hobbies, education, etc):
 --------------------------------------------------------------------------------
 
