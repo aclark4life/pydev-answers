@@ -25,6 +25,18 @@ I'll mention two other projects, too:
 
 The latter is marked "do not use", but I'm about to flip the switch on that one and make it available for consumption (and I hope folks try, like and contribute).
 
+Which Python libraries are your favorite (core or 3rd party)?
+================================================================================
+
+Is there anything else you’d like to say?
+================================================================================
+
+Where do you see Python going as a programming language? 
+================================================================================
+
+What is your take on the current market for Python programmers? 
+================================================================================
+
 .. [1] Amazingly, that site is still running: https://afni.nimh.nih.gov/
 .. [2] Most importantly, I still oversee the operation of DC Python, which I very much enjoy doing: http://dcpython.org.
 .. [3] https://www.getharvest.com/
