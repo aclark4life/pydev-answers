@@ -20,8 +20,8 @@ I'm glad you asked. A few years back (2012) I got carried away and ended up buil
 
 I'll mention two other projects, too:
 
-- Pillow (fork author, projector leader)
-- Python Project Makefile (a new project I've been working on since early 2016)
+- `Pillow <http://python-pillow.org>`_ (fork author, projector leader)
+- `Python Project Makefile <https://github.com/aclark4life/project-makefile>`_ (a new project I've been working on since early 2016)
 
 .. [1] Amazingly, that site is still running: https://afni.nimh.nih.gov/
 .. [2] Most importantly, I still oversee the operation of DC Python, which I very much enjoy doing: http://dcpython.org.
