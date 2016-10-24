@@ -23,6 +23,8 @@ I'll mention two other projects, too:
 - `Pillow <http://python-pillow.org>`_ (fork author, projector leader)
 - `Python Project Makefile <https://github.com/aclark4life/project-makefile>`_ (a new project I've been working on since early 2016)
 
+The latter is marked "do not use", but I'm about to flip the switch on that one and make it available for consumption (and I hope folks try and contribute).
+
 .. [1] Amazingly, that site is still running: https://afni.nimh.nih.gov/
 .. [2] Most importantly, I still oversee the operation of DC Python, which I very much enjoy doing: http://dcpython.org.
 .. [3] https://www.getharvest.com/
