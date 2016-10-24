@@ -13,5 +13,17 @@ What other programming languages do you know and which is your favorite?
 
 I've learned (or have been forced to learn) a lot of languages, starting in school where I took a Programming Languages class. In most classes, C was the focus but in the Programming Languages class we were forced (ahem) to look at other languages like Lisp, Smalltalk, etc. I also had to take an x86 Assembly class. After school, I learned and used Perl and my first job or two. At this point, I'd definitely say Python is my favorite language, both in terms of the language itself and surrounding community. I'm not terribly active in the community these days, but I like knowing it's there and I do follow events [2]_. Lastly, I'll mention JavaScript because as a Python Web Developer I can't ignore it. I'm fascinated by it, and I dabble, but is not my favorite yet and I'm not sure it ever will be; again, the Python aesthetic is superior to most if not all languages, including JavaScript.
 
+What projects are you working on now?
+================================================================================
+
+I'm glad you asked. A few years back (2012) I got carried away and ended up building my first start up business: "Python Packages"; I was selected to exhibit at PyCon 2012's Startup Row and it was very exciting and fun. Unfortunately, the start up failed but the desire to build a software-as-a-service (SaaS) revenue-generating business has not gone away. At the end of 2015, I got tired of using and paying for Harvest Time Tracking & Invoicing service [3]_. It's a very nice service, but there were some minor annoyances that gradually began to consume major space in my head. So I rolled my own with Django & Postgresql based on my exported data [4]_. I started using it "for real" in January 2016 and it's been amazing. The fact that I can send "Harvest-like" invoices to my clients using software I (and others, via open source) created still blows my mind. Earlier this month, I started updating the software to make it more usable by folks who aren't me. I hope to begin selling it on January 1, 2017.
+
+I'll mention two other projects, too:
+
+- Pillow (fork author, projector leader)
+- Python Project Makefile (a new project I've been working on since early 2016)
+
 .. [1] Amazingly, that site is still running: https://afni.nimh.nih.gov/
 .. [2] Most importantly, I still oversee the operation of DC Python, which I very much enjoy doing: http://dcpython.org.
+.. [3] https://www.getharvest.com/
+.. [4] https://github.com/ACLARKNET/aclarknet-database
