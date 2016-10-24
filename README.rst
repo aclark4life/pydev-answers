@@ -2,7 +2,7 @@ PyDev Answers
 =============
 
 .. image:: aclark-jobs.jpg
-    :align: center
+    :class: center
 
 Can you tell us a little about yourself (hobbies, education, etc):
 --------------------------------------------------------------------------------
